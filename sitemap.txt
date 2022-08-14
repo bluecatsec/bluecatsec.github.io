@@ -1,3 +1,6 @@
 https://bluecatsec.github.io/2022/08/14/test/
 https://bluecatsec.github.io/2022/08/14/hello-world/
 https://bluecatsec.github.io/
+https://bluecatsec.github.io/tags/test/
+https://bluecatsec.github.io/categories/test/
+https://bluecatsec.github.io/categories/test/test/
