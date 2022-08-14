@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>yxsec</title>
   
+  <subtitle>share my study</subtitle>
+  <link href="https://github.com/bluecatsec/bluecatsec.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://github.com/bluecatsec/bluecatsec.github.io/"/>
   <updated>2022-08-14T13:56:00.555Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/bluecatsec/bluecatsec.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Yixuan</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://example.com/2022/08/14/test/"/>
-    <id>http://example.com/2022/08/14/test/</id>
+    <link href="https://github.com/bluecatsec/bluecatsec.github.io/2022/08/14/test/"/>
+    <id>https://github.com/bluecatsec/bluecatsec.github.io/2022/08/14/test/</id>
     <published>2022-08-14T13:55:44.000Z</published>
     <updated>2022-08-14T13:56:00.555Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/08/14/hello-world/"/>
-    <id>http://example.com/2022/08/14/hello-world/</id>
+    <link href="https://github.com/bluecatsec/bluecatsec.github.io/2022/08/14/hello-world/"/>
+    <id>https://github.com/bluecatsec/bluecatsec.github.io/2022/08/14/hello-world/</id>
     <published>2022-08-14T13:53:23.835Z</published>
     <updated>2022-08-14T13:53:23.835Z</updated>
     
